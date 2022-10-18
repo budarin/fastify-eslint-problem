@@ -1,2 +1,4 @@
 # fastify-eslint-problem
-Error demo project
+
+- install all dependencies with `yarn` command
+- open `src/server/plugins/checkNotFound/checkNotFound.ts`
