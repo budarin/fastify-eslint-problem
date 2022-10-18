@@ -1,0 +1,12 @@
+config
+tools
+dist
+jest-coverage
+./*.js
+**/*.d.ts
+scripts
+jest.config.js
+release.config.js
+babel.config.js
+src/dotEnv.js
+flame-graphs
